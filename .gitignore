@@ -1,0 +1,10 @@
+.idea
+idea/*
+*.iml
+.DS_Store
+__pycache__/
+*/tmp/
+*/.DS_Store
+**/env/
+misc/
+.vscode/
